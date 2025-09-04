@@ -1,4 +1,4 @@
 ---
-name: Beg Report
+name: Bug Report
 about: File a bug report.
 ---
